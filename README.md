@@ -5,7 +5,7 @@
 
 ## Recherche de Stage<br><br>Actuellement en formation, je recherche un stage du 20 octobre 2025 au 15 décembre 2025 pour approfondir mes compétences et contribuer à des projets concrets. Ce qui me permettra de mettre en pratique mes compétences et apprendre de nouveaux concepts dans un environnement professionnel.<br>
 
-<br>## Philosophie de Développement<br>
+## Philosophie de Développement
 
 <br>Je suis un développeur qui cherche à optimiser et clarifier mon code, tout en veillant aux détails pour assurer des solutions efficaces et durables.<br><br>Mon adresse mail : bastien.bando1@gmail.com<br>
 
