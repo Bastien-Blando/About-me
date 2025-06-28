@@ -1,9 +1,11 @@
 # 💫 About Me:
 # Développeur Web Full Stack en Formation<br><br> 
 
-## À propos de moi<br><br>Je suis un développeur web full stack en formation, animé par la création d'applications web performantes et intuitives. <br>
+## À propos de moi<br>
+<br>Je suis un développeur web full stack en formation, animé par la création d'applications web performantes et intuitives. <br>
 
-## Recherche de Stage<br><br>Actuellement en formation, je recherche un stage du 20 octobre 2025 au 15 décembre 2025 pour approfondir mes compétences et contribuer à des projets concrets. Ce qui me permettra de mettre en pratique mes compétences et apprendre de nouveaux concepts dans un environnement professionnel.<br>
+## Recherche de Stage<br>
+<br>Actuellement en formation, je recherche un stage du 20 octobre 2025 au 15 décembre 2025 pour approfondir mes compétences et contribuer à des projets concrets. Ce qui me permettra de mettre en pratique mes compétences et apprendre de nouveaux concepts dans un environnement professionnel.<br>
 
 ## Philosophie de Développement
 
